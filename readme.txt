@@ -5,3 +5,4 @@ Git tracks changes of all files.
 Git is nice.
 Creating a new branch is quick and simple.
 Add merge.
+review how to use git.
